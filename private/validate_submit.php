@@ -41,7 +41,7 @@
         $mail->SMTPSecure = 'TLS'; // TLS/SSL
         $mail->Port = 587; // 587/465
         //Recipients
-        $mail->setFrom('lucasferreira.dev0@gmail.com', 'App MailerGo');
+        $mail->setFrom('teste@email.com', 'MailerGo');
         $mail->addAddress($message->__get('destination'));
         /* ----------------------------------------------
         $mail->addAddress('ellen@example.com');
