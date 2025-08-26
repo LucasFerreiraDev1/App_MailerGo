@@ -72,4 +72,4 @@ Este projeto é livre para uso educacional. Sem licença específica.
 
 ---
 
-Desenvolvido com 💻 por **LuksDevs**
+Desenvolvido com 💻 por **[Lucas Ferreira](https://github.com/LucasFerreiraDev1)**
